@@ -34,4 +34,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: dist # Pasta que o Vite gera o build
-          branch: gh-pages # Branch de destino para o GitHub Pages
+          branch: main # Branch de destino para o GitHub Pages
